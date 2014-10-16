@@ -3,9 +3,10 @@
     tools:context="com.example.listview2.MainActivity" >
 
     <item
-        android:id="@+id/action_settings"
+        android:id="@+id/addcontacto"
         android:orderInCategory="100"
-        android:showAsAction="never"
-        android:title="@string/action_settings"/>
+        android:showAsAction="always"
+        android:title="Agregar Contacto"
+        android:icon="@android:drawable/ic_input_add"/>
 
 </menu>
